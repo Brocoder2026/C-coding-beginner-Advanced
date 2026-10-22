@@ -1,0 +1,8 @@
+// THIS IS A COMMENT IN C //
+// TO WRITE CODE YOU MUST USE STDIO.H LIBRARAY
+#include <stdio.h>
+
+int main() { // YOU MUST USE INTIALIZE A FUNC TO RUN YOUR CODE //
+    printf("Hello World!"); // FUNC TO PRINT HELLO WORLD //
+    return 0; // MUST ALWAYS BE AT THE END OF YOUR MAIN FUNCTION //
+}
